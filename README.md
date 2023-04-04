@@ -1,4 +1,4 @@
-[![MasterHead](https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png)]
+![MasterHead](https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png)
 
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Baghla</h1>
 <h3 align="center">A passionate developer from Toronto, Canada</h3>
