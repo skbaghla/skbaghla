@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [python](https://github.com/skbaghla/pdfMerger)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/skbaghla?tab=repositories](https://github.com/skbaghla?tab=repositories)
 
