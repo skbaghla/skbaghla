@@ -17,6 +17,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@er.skbaghla](https://medium.com/@er.skbaghla)
 
+- 📝 I write answers on [https://www.quora.com/profile/Sanjeev-Baghla-2/answers](https://www.quora.com/profile/Sanjeev-Baghla-2/answers)
+
 - 💬 Ask me about **Android,Java**
 
 - 📫 How to reach me **er.skbaghla@gmail.com**
