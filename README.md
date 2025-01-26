@@ -1,7 +1,7 @@
 ![MasterHead](https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png)
 
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Baghla</h1>
-<h3 align="center">A passionate developer from Toronto, Canada</h3>
+<h3 align="center">A passionate Software developer from Toronto, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skbaghla&label=Profile%20views&color=0e75b6&style=flat" alt="skbaghla" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📝 I write answers on [https://www.quora.com/profile/Sanjeev-Baghla-2/answers](https://www.quora.com/profile/Sanjeev-Baghla-2/answers)
 
-- 💬 Ask me about **Android,Java**
+- 💬 Ask me about **Mobile and Website : Android,Java,PHP,Sql,API**
 
 - 📫 How to reach me **er.skbaghla@gmail.com**
 
